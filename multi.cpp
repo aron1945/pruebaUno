@@ -3,8 +3,12 @@
 
 using namespace std;
 
+
+
 //prototipo de multiplicacion grande
 long double multiplicarGrande(long double numeroUno, long double numeroDos);
+
+
 
 //prototipo de suma grande
 long  double sumaGrande(long  double numeroUno, long double numeroDos);
